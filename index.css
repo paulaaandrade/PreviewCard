@@ -84,7 +84,7 @@ h1 {
 button {
     width: 215px;
     height: 40px;
-    margin-top: 5%;
+    margin-top: 10%;
     margin-left: 55%;
     background-color: #18A558;
     border-radius: 8px;
@@ -105,3 +105,10 @@ svg {
     margin-right: 12px;
 }
 
+h3 {
+    margin-left: 58%;
+    margin-top: 5%;
+    color: #696969;
+    font-size: 14px;
+    font-weight: 500;
+}
